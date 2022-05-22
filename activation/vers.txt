@@ -1,4 +1,0 @@
-[22a1 - 22a16] Beta Versions
-[22r17] Release Version
-
-JPHP only
